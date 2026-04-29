@@ -115,9 +115,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jony-mia&show_icons=true&theme=tokyonight"/>
 </a>
 
-![Top Languages]
+<!-- ![Top Languages] -->
 <a href="https://github.com/Jony-Mia">
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jony-mia&layout=compact&theme=tokyonight"/>
 </a>
 ---
