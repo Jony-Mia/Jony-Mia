@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Jony Mia
-
-💻 MERN Stack Developer | 🚀 Building modern, real-time web apps | ⚡ Clean UI + Scalable Backend
+<div align="center">
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jony%20Mia&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20MERN%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Jony+Mia+%F0%9F%91%8B;Full-Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+<br/>
+<!-- 💻 MERN Stack Developer | 🚀 Building modern, real-time web apps | ⚡ Clean UI + Scalable Backend -->
 
 ---
 
@@ -87,9 +94,9 @@
 
 ## 📊 GitHub Stats
 
-![Jony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Jony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jony-mia&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jony-mia&layout=compact&theme=tokyonight)
 
 ---
 
