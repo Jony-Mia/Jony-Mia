@@ -109,15 +109,17 @@
 
 ## 📊 GitHub Stats
 
-![Jony's GitHub Stats]
+<!-- ![Jony's GitHub Stats] -->
 <a href="https://github.com/Jony-Mia">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jony-mia&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jony-mia&show_icons=true&theme=tokyonight"/>
 </a>
 
 ![Top Languages]
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jony-mia&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/Jony-Mia">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jony-mia&layout=compact&theme=tokyonight"/>
+</a>
 ---
 
 ## 🔥 Streak Stats
@@ -125,15 +127,17 @@
 ![GitHub Streak]
 <a href="https://github.com/Jony-Mia">
 
-<img src="https://streak-stats.demolab.com?user=jony-mia&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=jony-mia&theme=tokyonight&hide_border=true"/>
 </a>
 ---
 
 ## 📈 Contribution Graph
 
 ![Activity Graph]
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jony-mia&theme=tokyo-night"/>
+<a href="https://github.com/Jony-Mia">
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jony-mia&theme=tokyo-night"/>
+</a>
 ---
 
 ## 🔥 Current Focus
