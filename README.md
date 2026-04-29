@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Jony Mia
 <div align="center">
 <!-- Animated Header Banner -->
+<a href="https://github.com/Jony-Mia">
+
 <img src="assets/api.svg" width="100%"/>
+</a>
 <!-- Typing SVG -->
 <!-- <a href="https://git.io/typing-svg"> -->
-<a>
+<a href="https://github.com/Jony-Mia">
   <img src="assets/typing.svg" alt="Typing SVG" />
 </a>
 <br/>
@@ -26,7 +29,10 @@
 
 ### 🌐 Frontend
 <p>
+<a href="https://github.com/Jony-Mia">
+
   <img src="assets/icons.svg" />
+  </a>
 </p>
 
 - HTML5, CSS3, JavaScript (ES6+)  
@@ -38,7 +44,9 @@
 
 ### 🖥️ Backend
 <p>
+<a href="https://github.com/Jony-Mia">
   <img src="assets/backend.svg" />
+  </a>
 </p>
 
 - Node.js  
@@ -50,7 +58,9 @@
 
 ### 🗄️ Database
 <p>
+<a href="https://github.com/Jony-Mia">
   <img src="assets/database.svg" />
+  </a>
 </p>
 
 - MongoDB  
@@ -61,7 +71,9 @@
 
 ### ⚙️ Tools & Workflow
 <p>
+<a href="https://github.com/Jony-Mia">
   <img src="assets/tools.svg" />
+  </a>
 </p>
 
 - Git & GitHub  
@@ -109,12 +121,16 @@
 
 ## 📈 Contribution Graph
 
+<a href="https://github.com/Jony-Mia">
 <img src="assets/graph.svg">
+</a>
 ---
 ## 🏆 GitHub Trophies
 
 <div align="center">
+<a href="https://github.com/Jony-Mia">
 <img src="assets/trophy.svg">
+</a>
 
 </div>
 
