@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Jony Mia
 <div align="center">
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jony%20Mia&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="assets/api.svg" width="100%"/>
 <!-- Typing SVG -->
 <!-- <a href="https://git.io/typing-svg"> -->
 <a>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Jony+Mia+%F0%9F%91%8B;Full-Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="assets/typing.svg" alt="Typing SVG" />
 </a>
 <br/>
 <!-- 💻 MERN Stack Developer | 🚀 Building modern, real-time web apps | ⚡ Clean UI + Scalable Backend -->
@@ -26,7 +26,7 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <img src="assets/icons.svg" />
 </p>
 
 - HTML5, CSS3, JavaScript (ES6+)  
@@ -38,7 +38,7 @@
 
 ### 🖥️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="assets/backend.svg" />
 </p>
 
 - Node.js  
@@ -50,7 +50,7 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="assets/database.svg" />
 </p>
 
 - MongoDB  
@@ -61,7 +61,7 @@
 
 ### ⚙️ Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="assets/tools.svg" />
 </p>
 
 - Git & GitHub  
@@ -95,7 +95,8 @@
 
 ## 📊 GitHub Stats
 
-![Jony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jony-mia&show_icons=true&theme=tokyonight)
+<!-- ![Jony's GitHub Stats] -->
+<img src="assets/jony-mia-github-stat.svg"/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jony-mia&layout=compact&theme=tokyonight)
 
@@ -103,15 +104,19 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jony-mia&theme=tokyonight&hide_border=true)
-
+<img src="assets/lang.svg">
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jony-mia&theme=tokyo-night)
-
+<img src="assets/graph.svg">
 ---
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="assets/trophy.svg">
+
+</div>
 
 ## 🔥 Current Focus
 
