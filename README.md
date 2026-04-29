@@ -3,12 +3,12 @@
 <!-- Animated Header Banner -->
 <a href="https://github.com/Jony-Mia">
 
-<img src="assets/api.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jony%20Mia&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%20Developer&descAlignY=55&descSize=20" width="100%"/>
 </a>
 <!-- Typing SVG -->
 <!-- <a href="https://git.io/typing-svg"> -->
 <a href="https://github.com/Jony-Mia">
-  <img src="assets/typing.svg" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Jony+Mia+%F0%9F%91%8B;Full-Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 <br/>
 <!-- 💻 MERN Stack Developer | 🚀 Building modern, real-time web apps | ⚡ Clean UI + Scalable Backend -->
@@ -31,7 +31,7 @@
 <p>
 <a href="https://github.com/Jony-Mia">
 
-  <img src="assets/icons.svg" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
   </a>
 </p>
 
@@ -45,7 +45,8 @@
 ### 🖥️ Backend
 <p>
 <a href="https://github.com/Jony-Mia">
-  <img src="assets/backend.svg" />
+
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
 </p>
 
@@ -59,7 +60,7 @@
 ### 🗄️ Database
 <p>
 <a href="https://github.com/Jony-Mia">
-  <img src="assets/database.svg" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
 </p>
 
@@ -72,7 +73,8 @@
 ### ⚙️ Tools & Workflow
 <p>
 <a href="https://github.com/Jony-Mia">
-  <img src="assets/tools.svg" />
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
   </a>
 </p>
 
@@ -107,32 +109,32 @@
 
 ## 📊 GitHub Stats
 
-<!-- ![Jony's GitHub Stats] -->
-<img src="assets/jony-mia-github-stat.svg"/>
+![Jony's GitHub Stats]
+<a href="https://github.com/Jony-Mia">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jony-mia&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=jony-mia&show_icons=true&theme=tokyonight"/>
+</a>
+
+![Top Languages]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jony-mia&layout=compact&theme=tokyonight"/>
 
 ---
 
 ## 🔥 Streak Stats
 
-<img src="assets/lang.svg">
+![GitHub Streak]
+<a href="https://github.com/Jony-Mia">
+
+<img src="https://streak-stats.demolab.com?user=jony-mia&theme=tokyonight&hide_border=true"/>
+</a>
 ---
 
 ## 📈 Contribution Graph
 
-<a href="https://github.com/Jony-Mia">
-<img src="assets/graph.svg">
-</a>
+![Activity Graph]
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jony-mia&theme=tokyo-night"/>
+
 ---
-## 🏆 GitHub Trophies
-
-<div align="center">
-<a href="https://github.com/Jony-Mia">
-<img src="assets/trophy.svg">
-</a>
-
-</div>
 
 ## 🔥 Current Focus
 
