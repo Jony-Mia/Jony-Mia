@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Jony Mia
 <div align="center">
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jony%20Mia&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20MERN%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jony%20Mia&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%20Developer&descAlignY=55&descSize=20" width="100%"/>
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg"> -->
+<a>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Jony+Mia+%F0%9F%91%8B;Full-Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+%26+Growing+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 <br/>
@@ -81,7 +82,7 @@
 🔹 **Web Scraping Projects**  
 - Automated data extraction tools  
 
-👉 More projects: https://github.com/your-username
+👉 More projects: https://github.com/Jony-Mia
 
 ---
 
@@ -147,4 +148,4 @@
 
 ---
 
-⭐️ From [Jony Mia](https://github.com/your-username)
+⭐️ From [Jony Mia](https://github.com/jony-mia)
