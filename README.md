@@ -81,7 +81,7 @@
 - Git & GitHub  
 - VS Code  
 - Postman  
-- Web Scraping (Puppeteer / Cheerio)  
+<!- Web Scraping (Puppeteer / Cheerio)  -->
 
 ---
 
@@ -144,7 +144,7 @@
 - ⚡ Building **real-time apps with Next.js**  
 - 🤖 Integrating **AI into web applications**  
 - 🧱 Creating a **job-ready GitHub portfolio**  
-- 💼 Launching **Fiverr freelance services**  
+<!- 💼 Launching **Fiverr freelance services**  -->
 
 ---
 
